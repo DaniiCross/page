@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body{
+    font-family:rubik;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(255, 255, 255);
+    Font-size: 18px;
+    
+}
+
+
+
+/*-----------------------Header-------------------------*/
+
+.header{
+    margin:20px 80px 20px 80px;
+    padding: 10px;
+    
+}
+
+
+
+/*-----------------------Header-------------------------*/
+
+.main{
+    margin: 20px 200px 20px 200px;
+    padding: 40px;
+    align-items: center;
+    font-weight: 400px;
+
+}
+
+
+.form{
+    padding: 50px;
+    color: rgb(0, 0, 0);
+    font-weight: 500px;
+    align-items: center;
+    text-align: center;
+}
+
+span{
+    color: red;
+}
+
+.title{
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    color: hsl(231, 69%, 60%);;
+    font-weight: 500px;
+}
+
+#hotmail{
+    opacity: 0;
+}
+
+
+#submit{
+    padding: 10px;
+    color: hsl(0, 94%, 66%) ;
+    font-weight: 500px;
+    background-color:hsl(231, 69%, 60%);
+    box-shadow: 0 2px 2px 0 hsl(229, 8%, 60%);
+}
+
+
+
+
+/*---------------------Footer--------------------------*/
+
+
+footer{
+    background-color: hsl(229, 8%, 60%);
+    margin: 20px 0% 0% 0%;
+    
+}
+
+.div1{
+    color: white;
+    background-color: hsl(231, 69%, 60%);
+    font-size: 15px;
+    padding: 20px 30px 20px 30px;
+    justify-content: center;
+    text-align: center;
+}
+
+.navbar{
+    padding: 0% 140px;
+    font-size: 15px;
+    justify-content: start; 
+}
+
+span{
+    opacity: 0;
+}
+
+
+.div1 label{
+    font-size: 12px;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+
+.div1 h4{
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+
+
+
+.input {
+    border-color: hsl(0, 94%, 66%);
+    font-size: 13px;
+    padding: 5px;
+    
+}
+
+#btn{
+    font-size: 13px;
+
+}
+
+
